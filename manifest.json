@@ -1,0 +1,8 @@
+{
+    "name": "PWA from Scratch",
+    "short_name": "PWA from Scratch",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#42b4e6"
+  }
